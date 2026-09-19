@@ -1,0 +1,7 @@
+aiogram
+asyncio
+datetime
+deep_translator
+dotenv
+pandas
+requests
